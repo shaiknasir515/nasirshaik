@@ -1,0 +1,21 @@
+stock_project/
+│
+├── Backend/
+│   ├── main.py
+│   ├── stock_utils.py
+│   ├── shareholding_utils.py
+│   ├── cache_utils.py
+│   ├── models/
+│   │    ├── stock_model.py
+│   │    └── search_model.py
+│   ├── data/
+│   │    ├── symbols.json
+│   │    └── trending.json
+│   └── notebooks/
+│        ├── test_api.ipynb
+│        └── test_yfinance.ipynb
+│
+└── Frontend/
+    ├── index.html
+    ├── style.css
+    └── app.js

@@ -1,0 +1,20 @@
+stock-frontend/
+│── public/
+│── src/
+│   │── components/
+│   │   │── Sidebar.jsx
+│   │   │── Topbar.jsx
+│   │   │── StockCard.jsx
+│   │   │── ChartBox.jsx
+│   │   └── Loader.jsx
+│   │
+│   │── pages/
+│   │   │── Dashboard.jsx
+│   │   └── StockDetails.jsx
+│   │
+│   │── App.jsx
+│   │── index.js
+│   │── theme.js
+│   │── styles.css
+│
+│── package.json
